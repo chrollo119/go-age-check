@@ -1,0 +1,8 @@
+# Ignore compiled Go binaries
+/bin/
+/obj/
+
+# Ignore IDE files (e.g., VSCode)
+.vscode/
+*.log
+
